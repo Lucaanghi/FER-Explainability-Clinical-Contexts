@@ -5,8 +5,8 @@ This project investigates the interpretability of Deep Learning models applied t
 We explore how different eXplainable AI (XAI) techniques can validate the use of AI as a non-invasive biomarker for neurological disorders.
 
 ## Team
-- **Claudia** (@tuo-username)
-- **Compagna di corso** (@suo-username)
+- **Luca** (@Lucaanghi)
+- **Parand** (@suo-username)
 
 ## Key Features
 - **Models:** CNN (ResNet) and Vision Transformers (ViT).
