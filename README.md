@@ -6,7 +6,7 @@ We explore how different eXplainable AI (XAI) techniques can validate the use of
 
 ## Team
 - **Luca** (@Lucaanghi)
-- **Parand** (@suo-username)
+- **Parand*
 
 ## Key Features
 - **Models:** CNN (ResNet) and Vision Transformers (ViT).
